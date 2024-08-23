@@ -1,16 +1,21 @@
-# country_list
+# Country List
 
-A new Flutter project.
+## Description
 
-## Getting Started
+Build a Flutter app that fetches and displays a list of European countries. The app allows users to sort the countries based on population, name, and capital, and display detailed information about a selected country.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Fetch and display a list of European countries.
+- Sort countries by population, name, and capital.
+- View detailed information about a selected country.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Setup
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To get started with the project, follow these steps:
+
+**Clone the Repository:**
+cd repository
+1 . flutter pub get
+2 . flutter build runner build --delete-conflicting-outputs
+3 . flutter run
