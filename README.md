@@ -11,6 +11,8 @@ Build a Flutter app that fetches and displays a list of European countries. The 
 - View detailed information about a selected country.
 
 ![App Screenshot](Screenshot1.jpg)
+<img src="Screenshot2.jpg" alt="App Screenshot" height="400" width="200"/>
+
 
 ## Setup
 
