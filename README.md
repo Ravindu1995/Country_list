@@ -10,6 +10,8 @@ Build a Flutter app that fetches and displays a list of European countries. The 
 - Sort countries by population, name, and capital.
 - View detailed information about a selected country.
 
+![App Screenshot](Screenshot1.jpg)
+
 ## Setup
 
 To get started with the project, follow these steps:
